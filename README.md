@@ -1,1 +1,2 @@
-# Java-Clock-Script
+# JavaScript Clock
+ 
